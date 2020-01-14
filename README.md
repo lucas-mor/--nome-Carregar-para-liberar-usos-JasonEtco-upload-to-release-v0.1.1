@@ -1,0 +1,1 @@
+# --nome-Carregar-para-liberar-usos-JasonEtco-upload-to-release-v0.1.1
